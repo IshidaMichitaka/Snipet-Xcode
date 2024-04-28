@@ -11,6 +11,7 @@
 		3967CAEC2BDDFE2C00EAC133 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3967CAEB2BDDFE2C00EAC133 /* ContentView.swift */; };
 		3967CAEE2BDDFE2D00EAC133 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3967CAED2BDDFE2D00EAC133 /* Assets.xcassets */; };
 		3967CAF12BDDFE2D00EAC133 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3967CAF02BDDFE2D00EAC133 /* Preview Assets.xcassets */; };
+		3967CAF82BDDFE6200EAC133 /* UseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3967CAF72BDDFE6200EAC133 /* UseCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3967CAEB2BDDFE2C00EAC133 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3967CAED2BDDFE2D00EAC133 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3967CAF02BDDFE2D00EAC133 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3967CAF72BDDFE6200EAC133 /* UseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseCase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3967CAE92BDDFE2C00EAC133 /* SnipetSampleApp.swift */,
 				3967CAEB2BDDFE2C00EAC133 /* ContentView.swift */,
+				3967CAF72BDDFE6200EAC133 /* UseCase.swift */,
 				3967CAED2BDDFE2D00EAC133 /* Assets.xcassets */,
 				3967CAEF2BDDFE2D00EAC133 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3967CAF82BDDFE6200EAC133 /* UseCase.swift in Sources */,
 				3967CAEC2BDDFE2C00EAC133 /* ContentView.swift in Sources */,
 				3967CAEA2BDDFE2C00EAC133 /* SnipetSampleApp.swift in Sources */,
 			);
